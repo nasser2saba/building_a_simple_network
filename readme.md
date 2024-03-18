@@ -3,8 +3,7 @@
 
 ## Network 192.168.1.0/24
 ### - 3 hosts (Robert - Camille - Renaud) 
-### - 1 server
-### - website : www.google.com 
+### - 1 server with DNS server and address https service : www.google.com 
 
 #
 ## This network is connected to the Internet through the server which has the IP address 192.168.1.2
