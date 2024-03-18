@@ -18,4 +18,4 @@
 ### Inserted the DNS server on each Host and added the HTTP service (google) 
 ### Tested with ping and tested with the small Mail Icon "Add Simple PDU"
 ### Tests were successfull. :)
-### Browser on my laptop was crashing whenever I tried to access Google, so I sended the file to Cristian who tested it for me and it was also successful 
+### 
